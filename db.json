@@ -1,117 +1,87 @@
 [
    {
-      "id":11,
-      "name":"John Doe",
-      "username":"JohnD",
-      "email":"john.doe@example.com",
-      "address":{
-         "street":"Maple Avenue",
-         "suite":"Apt. 123",
-         "city":"Greenfield",
-         "zipcode":"12345-6789",
-         "geo":{
-            "lat":"40.7128",
-            "lng":"-74.0060"
-         }
+      "category":"Electronics",
+      "product":"Smartphone",
+      "manufacturer":"TechGenius",
+      "specifications":{
+         "screenSize":"6.5 inches",
+         "camera":"48 MP",
+         "storage":"128 GB"
       },
-      "phone":"555-1234",
-      "website":"johndoe.com",
-      "company":{
-         "name":"Doe Enterprises",
-         "catchPhrase":"Innovative solutions for the future",
-         "bs":"optimize cutting-edge technologies"
+      "price":"$699",
+      "website":"techgenius.com",
+      "store":{
+         "location":"123 Main Street",
+         "city":"TechCity",
+         "zipcode":"54321"
       }
    },
    {
-      "id":12,
-      "name":"Jane Smith",
-      "username":"JaneS",
-      "email":"jane.smith@example.com",
-      "address":{
-         "street":"Cedar Lane",
-         "suite":"Suite 456",
-         "city":"Hilltop",
-         "zipcode":"54321-9876",
-         "geo":{
-            "lat":"34.0522",
-            "lng":"-118.2437"
-         }
+      "category":"Home Appliances",
+      "product":"Smart Refrigerator",
+      "manufacturer":"EcoCool",
+      "specifications":{
+         "capacity":"500 liters",
+         "energyRating":"A+",
+         "color":"Silver"
       },
-      "phone":"555-5678",
-      "website":"janesmith.org",
-      "company":{
-         "name":"Smith Innovations",
-         "catchPhrase":"Empowering businesses through technology",
-         "bs":"drive strategic partnerships"
+      "price":"$1499",
+      "website":"ecocoolappliances.net",
+      "store":{
+         "location":"456 Oak Avenue",
+         "city":"GreenVillage",
+         "zipcode":"98765"
       }
    },
    {
-      "id":13,
-      "name":"Michael Johnson",
-      "username":"MikeJ",
-      "email":"michael.johnson@example.com",
-      "address":{
-         "street":"Oak Street",
-         "suite":"Apt. 789",
-         "city":"Woodville",
-         "zipcode":"98765",
-         "geo":{
-            "lat":"41.8781",
-            "lng":"-87.6298"
-         }
+      "category":"Fashion",
+      "product":"Designer Dress",
+      "designer":"ChicStyle",
+      "specifications":{
+         "material":"Silk",
+         "size":"Medium",
+         "color":"Royal Blue"
       },
-      "phone":"555-9012",
-      "website":"mikejohnson.net",
-      "company":{
-         "name":"Johnson Tech",
-         "catchPhrase":"Transformative digital solutions",
-         "bs":"leverage cross-platform synergies"
+      "price":"$299",
+      "website":"chicstylefashion.com",
+      "store":{
+         "location":"789 Fashion Boulevard",
+         "city":"StyleCity",
+         "zipcode":"13579"
       }
    },
    {
-      "id":14,
-      "name":"Emily Davis",
-      "username":"EmDavis",
-      "email":"emily.davis@example.com",
-      "address":{
-         "street":"Pine Avenue",
-         "suite":"Suite 101",
-         "city":"Meadowville",
-         "zipcode":"13579",
-         "geo":{
-            "lat":"37.7749",
-            "lng":"-122.4194"
-         }
+      "category":"Sports",
+      "product":"Running Shoes",
+      "brand":"FitStride",
+      "specifications":{
+         "size":"9",
+         "color":"Black",
+         "type":"Trail Running"
       },
-      "phone":"555-3456",
-      "website":"emilydavis.io",
-      "company":{
-         "name":"Davis Innovations",
-         "catchPhrase":"Fostering creativity in the digital age",
-         "bs":"enable seamless experiences"
+      "price":"$79",
+      "website":"fitstrideshoes.com",
+      "store":{
+         "location":"101 Runners Lane",
+         "city":"FitVille",
+         "zipcode":"24680"
       }
    },
    {
-      "id":15,
-      "name":"William Brown",
-      "username":"WillB",
-      "email":"william.brown@example.com",
-      "address":{
-         "street":"Walnut Lane",
-         "suite":"Apt. 555",
-         "city":"Greenville",
-         "zipcode":"24680",
-         "geo":{
-            "lat":"35.2271",
-            "lng":"-80.8431"
-         }
+      "category":"Books",
+      "product":"Science Fiction Novel",
+      "author":"Alex Quantum",
+      "specifications":{
+         "genre":"Sci-Fi",
+         "pages":"400",
+         "language":"English"
       },
-      "phone":"555-6789",
-      "website":"willbrowndesigns.com",
-      "company":{
-         "name":"Brown Designs",
-         "catchPhrase":"Designing a brighter future",
-         "bs":"integrate innovative concepts"
+      "price":"$19.99",
+      "website":"alexquantumbooks.org",
+      "store":{
+         "location":"555 Bookworm Street",
+         "city":"ReadCity",
+         "zipcode":"98765"
       }
    }
 ]
